@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
           _*PAIR Successful 🔥*_
 ╔═════◇
 ║       『•••𖤍𝐌𝐫-𝐚𝐧𝐣𝐚𝐧𖤍•••』
-║ *Github:* _https://github.com/OfficialAnjanv2/HOTARO-MD_
+║ *Github:* _https://github.com/OfficialAnjanv2/MR-ANJAN_
 ║ *Owner:* _https://wa.me/message/MM5LKUUQBHGBF1_
 ║ *Note :*_Do not provide your SESSION_ID_
 ╚════════════════════════╝`
