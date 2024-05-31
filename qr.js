@@ -59,18 +59,11 @@ router.get('/', async (req, res) => {
 				   let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: data });
 				   let SIGMA_MD_TEXT = `
           _*PAIR Successful 🔥*_
-put the above ID in the sessID variable when deploying .
-Use this Session ID for all bots by Tᴀɪʀᴀ Mᴀᴋɪɴᴏ.
 ╔═════◇
-║       『••• Tᴀɪʀᴀ Mᴀᴋɪɴᴏ•••』
-║ *Channel:* _https://whatsapp.com/channel/0029VaaSaXD23n3ZEognud1V_
-║ *Main GC:* _https://chat.whatsapp.com/Dr03KnoxE2xK8pf19vbA1v_
-║ *Support GC:* _https://chat.whatsapp.com/BRDE2Yqsj9iAkTxhnuI1AL_
-║ *Github:* _https://github.com/anonphoenix007_
-║ *Owner:* _https://wa.me/2347080968564_
-║ *Note :*_Do not provide your SESSION_ID to_
-║ _anyone otherwise that can access your WA messages_
-║ _*Follow Me and Star my repo for more 🫡.*_
+║       『•••𖤍𝐌𝐫-𝐚𝐧𝐣𝐚𝐧𖤍•••』
+║ *Github:* _https://github.com/OfficialAnjanv2/HOTARO-MD_
+║ *Owner:* _https://wa.me/message/MM5LKUUQBHGBF1_
+║ *Note :*_Do not provide your SESSION_ID_
 ╚════════════════════════╝`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
